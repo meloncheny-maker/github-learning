@@ -6,3 +6,5 @@ print("This line comes from feature branch")
 print("Local change before push")
 print("Change made on GitHub")
 print("Goodbye GitHub")
+def welcome():
+    print("Welcome to GitHub")
