@@ -8,3 +8,7 @@ print("Change made on GitHub")
 print("Goodbye GitHub")
 def welcome():
     print("Welcome to GitHub")
+
+
+def goodbye(name):
+    print(f"Goodbye, {name}!")
